@@ -3,7 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Fredericka+the+Great);
 @import url(http://fonts.googleapis.com/css?family=Special+Elite);
 body {
-  background-image: url(http://farm8.staticflickr.com/7192/6796259354_79b96a7234_o.jpg);
+  background-image: url("../images/lined_paper.jpg");
   background-size: cover;
 }
 
@@ -16,16 +16,15 @@ h1 {
 }
 h2 {
   font-family: 'Special Elite', cursive;
-  margin-left: 20%;
+  margin-left: 17%;
+  margin-right: 15%;
 }
 
 
 #result {
  font-family: 'Fredericka The Great', cursive;
-  font-size: 3em;
+  font-size: 4em;
 }
-
-img {
-  height: 70%;
-  width: 70%;
+#margins {
+text-align: center;
 }
