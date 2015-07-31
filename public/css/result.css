@@ -14,17 +14,21 @@ h1 {
   margin-left: 2%;
   text-align: center;
 }
-h2 {
+/* h2 {
   font-family: 'Special Elite', cursive;
   margin-left: 17%;
   margin-right: 15%;
 }
-
+ */
 
 #result {
  font-family: 'Fredericka The Great', cursive;
-  font-size: 4em;
+  font-size: 3em;
+  margin-left: 17%;
+  margin-right: 15%;
+  margin-top: 3%;
 }
+
 #margins {
 text-align: center;
 }
