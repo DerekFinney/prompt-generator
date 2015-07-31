@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+   <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="css/prompt_list.css">
+  <title>Creative Prompt Generator</title>
+</head>
+
+<body>
+    <h1 align="center">
+   What would you like to write about?
+  </h1>
+
+    <ul>
+      <form method="post" action='/after'>
+        <li><input type="radio" name="squad_prompt" value="characters"> Characters</li>
+        <br>
+        <li><input type="radio" name="squad_prompt" value="plot_type"> Plot Type</li>
+        <br>
+        <li><input type="radio" name="squad_prompt" value="time_period"> Time period/Setting</li>
+        <br>
+        <!--   <input type ="radio" name="squad_prompt" value="abstract_concepts">Abstract Concepts<br> -->
+        <input type="radio" name="squad_prompt" value="personal_narrative">Drawing
+        <br>
+
+        <input type="submit">
+      </form>
+    </ul>
+
+
+  </div>
+</body>
+
+</html>

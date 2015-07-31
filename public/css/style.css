@@ -1,0 +1,91 @@
+
+body {
+background-image: url("../images/lined_paper.jpg");
+background-size: cover;
+}
+
+h1 {font-family:'Special Elite', cursive;
+  font-size: 3em;
+  margin-top: 8%;
+  margin-left: 2%
+}
+
+#drawing_image {
+  width: 50%;
+  height: auto;
+  margin-top -5%;
+}
+
+#writing_image {
+width: 50%;
+height: auto;
+padding: .5%
+}
+footer {
+position: absolute 0;
+}    
+
+
+
+
+
+
+.kappa#kappa{
+  text-align: center;
+  font-size: 4em;
+}
+
+.results#results{
+  text-align: center;
+  position: relative;
+  top: 200px;
+  font-size: 3em;
+}
+
+
+
+#home{
+ 
+  position: relative;
+    margin-top: 250px;
+  left: 47%; 
+  border-radius: 2%;
+}
+
+
+#home:hover{
+  border: outset;
+}
+
+a:link{
+  color: black;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
